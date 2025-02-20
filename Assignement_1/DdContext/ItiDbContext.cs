@@ -22,8 +22,6 @@ namespace Assignement_1.DdContext
         public DbSet<Department> Departments { get; set; }
         public DbSet<Instructor> Instructors { get; set; }
         public DbSet<Topic> Topics { get; set; }
-        // public DbSet<Student_Course> Student_Courses { get; set; }
-        // public DbSet<Course_Inst> Course_Insts { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
