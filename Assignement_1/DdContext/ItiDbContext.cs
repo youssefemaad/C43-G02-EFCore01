@@ -28,11 +28,4 @@ namespace Assignement_1.DdContext
             optionsBuilder.UseSqlServer("Server=YOUSSEF\\SQLSERVER;Database=iti;Trusted_Connection=True;TrustServerCertificate=True");
         }
     }
-
-    // filepath: /d:/Youssef/Projects/Routes_Course/Entity Framwork/Ass_1/C43-G02-EFCore01/Assignement_1/Models/Department.cs
-    // filepath: /d:/Youssef/Projects/Routes_Course/Entity Framwork/Ass_1/C43-G02-EFCore01/Assignement_1/Models/Department.cs
-
-
-
-
 }
