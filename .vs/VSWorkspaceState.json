@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Assignement_1"
+    "\\Assignement_1",
+    "\\Assignement_1\\Models"
   ],
-  "SelectedNode": "\\Assignement_1.sln",
+  "SelectedNode": "\\Assignement_1\\Models\\Department.cs",
   "PreviewInSolutionExplorer": false
 }

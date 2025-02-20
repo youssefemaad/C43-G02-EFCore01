@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|d:\\youssef\\projects\\routes_course\\entity framwork\\ass_1\\c43-g02-efcore01\\assignement_1\\ddcontext\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|solutionrelative:assignement_1\\ddcontext\\itidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|d:\\youssef\\projects\\routes_course\\entity framwork\\ass_1\\c43-g02-efcore01\\assignement_1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|solutionrelative:assignement_1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|d:\\youssef\\projects\\routes_course\\entity framwork\\ass_1\\c43-g02-efcore01\\assignement_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|solutionrelative:assignement_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|d:\\youssef\\projects\\routes_course\\entity framwork\\ass_1\\c43-g02-efcore01\\assignement_1\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|solutionrelative:assignement_1\\models\\course_inst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|d:\\youssef\\projects\\routes_course\\entity framwork\\ass_1\\c43-g02-efcore01\\assignement_1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|solutionrelative:assignement_1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|d:\\youssef\\projects\\routes_course\\entity framwork\\ass_1\\c43-g02-efcore01\\assignement_1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|solutionrelative:assignement_1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|d:\\youssef\\projects\\routes_course\\entity framwork\\ass_1\\c43-g02-efcore01\\assignement_1\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|solutionrelative:assignement_1\\models\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|d:\\youssef\\projects\\routes_course\\entity framwork\\ass_1\\c43-g02-efcore01\\assignement_1\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|solutionrelative:assignement_1\\models\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|d:\\youssef\\projects\\routes_course\\entity framwork\\ass_1\\c43-g02-efcore01\\assignement_1\\models\\student_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3364EC77-55B8-46E4-B166-271199F27018}|Assignement_1\\Assignement_1.csproj|solutionrelative:assignement_1\\models\\student_course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course_Inst.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Course_Inst.cs",
+              "RelativeDocumentMoniker": "Assignement_1\\Models\\Course_Inst.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Course_Inst.cs",
+              "RelativeToolTip": "Assignement_1\\Models\\Course_Inst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:52:50.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Instructor.cs",
+              "RelativeDocumentMoniker": "Assignement_1\\Models\\Instructor.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Instructor.cs",
+              "RelativeToolTip": "Assignement_1\\Models\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:52:13.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Assignement_1\\Models\\Course.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Course.cs",
+              "RelativeToolTip": "Assignement_1\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:51:54.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Assignement_1\\Models\\Department.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Department.cs",
+              "RelativeToolTip": "Assignement_1\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:51:45.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItiDbContext.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\DdContext\\ItiDbContext.cs",
+              "RelativeDocumentMoniker": "Assignement_1\\DdContext\\ItiDbContext.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\DdContext\\ItiDbContext.cs",
+              "RelativeToolTip": "Assignement_1\\DdContext\\ItiDbContext.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:03:35.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student_Course.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Student_Course.cs",
+              "RelativeDocumentMoniker": "Assignement_1\\Models\\Student_Course.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Student_Course.cs",
+              "RelativeToolTip": "Assignement_1\\Models\\Student_Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:52:35.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Assignement_1\\Models\\Student.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Student.cs",
+              "RelativeToolTip": "Assignement_1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:26:20.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Program.cs",
+              "RelativeDocumentMoniker": "Assignement_1\\Program.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Program.cs",
+              "RelativeToolTip": "Assignement_1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T20:00:46.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Topic.cs",
+              "RelativeDocumentMoniker": "Assignement_1\\Models\\Topic.cs",
+              "ToolTip": "D:\\Youssef\\Projects\\Routes_Course\\Entity Framwork\\Ass_1\\C43-G02-EFCore01\\Assignement_1\\Models\\Topic.cs",
+              "RelativeToolTip": "Assignement_1\\Models\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T21:52:24.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

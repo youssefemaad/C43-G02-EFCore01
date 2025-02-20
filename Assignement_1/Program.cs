@@ -13,7 +13,6 @@ namespace Assignement_1
         static void Main(string[] args)
         {
             ItiDbContext dbContext = new ItiDbContext();
-
         }
     }
 }
